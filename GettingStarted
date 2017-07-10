@@ -1,0 +1,20 @@
+Hi, Budgey
+If you're reading this, you managed to successfully figure out how Git works, which is cool because it's one of the most widely used
+version control systems in the world. Basically, this "repository" called "li-brothers" acts as an online database for us to store files
+in and "push" updates to. What's really great about something like this is that we can maintain the codebase that we eventually build out
+very easily and access the history of the entire repository or individual files at any time. I.E: if one of us fucks up, we can just revert
+the entire repository back to a previous build. Very safe, very fast, very secure, and free. 
+
+Here's what I recommend you start with:
+
+1. https://csedweek.org/
+//This is an hour long introduction called "hour of code"
+//As you might have deduced, it takes one hour to complete but does a decent job of introducing programming to noobs
+
+2. https://developer.android.com/studio/index.html
+//This is a link to download android studio, the development software necessary to start building android applications
+//Download this (it'll take a while)
+
+3. http://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studio/
+//How to build your first Android app
+//Follow the steps and try to have fun with this - you can literally do anything
